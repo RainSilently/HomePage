@@ -1,0 +1,20 @@
+[
+  {
+    "type": "Github🐙",
+    "icon": "fab fa-github",
+    "url": "https://github.com/rainsilently",
+    "hoverColor": "#6500fc"
+  },
+  {
+    "type": "QQ🌹",
+    "icon": "fab fa-qq",
+    "url": "https://res.abeim.cn/api/qq/?qq=320314562",
+    "hoverColor": "#6500fc"
+  },
+  {
+    "type": "Email📧",
+    "icon": "fas fa-envelope",
+    "url": "mailto:320314562@qq.com",
+    "hoverColor": "#e78b0a"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "博客",
+    "url": "https://blog.20030816.xyz",
+    "icon": "fa fa-blog"
+  },
+  {
+    "name": "NAS",
+    "url": "https://nas.20030816.xyz",
+    "icon": "fa fa-cloud "
+  },
+  {
+    "name": "小窝",
+    "url": "https://nest.20030816.xyz",
+    "icon": "fa fa-home"
+  }
+]
